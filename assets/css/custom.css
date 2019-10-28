@@ -1,1 +1,19 @@
 /* PLACE YOU CUSTOM STYLES IN THIS FILE */
+.HomeCTA{
+background-color: transparent;
+font-family:inherit;
+color: #fff;
+width: 200px;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+border: 2px solid white;
+margin-top: 30px;
+
+}
+
+.HomeCTA:hover{
+background-color: #fff;
+color: green;
+}
